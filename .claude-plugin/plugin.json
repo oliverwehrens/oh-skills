@@ -1,0 +1,10 @@
+{
+  "name": "oh-skills",
+  "version": "0.1.0",
+  "description": "Oliver's Claude Code skills",
+  "author": {
+    "name": "Oliver Wehrens"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/oliverwehrens/oh-skills"
+}

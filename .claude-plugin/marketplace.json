@@ -1,0 +1,12 @@
+{
+  "name": "oh-skills",
+  "description": "Oliver's Claude Code skills",
+  "owner": { "name": "Oliver Wehrens" },
+  "plugins": [
+    {
+      "name": "oh-skills",
+      "source": "./",
+      "description": "Oliver's Claude Code skills"
+    }
+  ]
+}
