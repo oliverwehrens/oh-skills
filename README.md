@@ -15,11 +15,7 @@ Skills are then available as `/oh-skills:<skill-name>` and trigger automatically
 
 | Skill | Description |
 |-------|-------------|
-| `hello-world` | Example skill to verify the install |
-
-## Adding a skill
-
-Create `skills/<skill-name>/SKILL.md` with `name` and `description` frontmatter. Bump `version` in `.claude-plugin/plugin.json` so users get the update.
+| `issue-impact` | Rewrites an issue's impact sections for a product owner (user impact, business impact, consequence of not fixing, recommendation) and sets its priority. Works with Jira, Linear, GitHub, GitLab and Gitea. Manual only: `/oh-skills:issue-impact <issue reference>` |
 
 ## License
 
